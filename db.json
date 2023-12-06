@@ -1,0 +1,50 @@
+{
+    "mobiles": [
+      {
+        "id": 1,
+        "brand": "Samsung",
+        "model": "Galaxy S21",
+        "price": 799.99,
+        "storage": "128GB",
+        "color": "Phantom Gray",
+        "availability": true
+      },
+      {
+        "id": 2,
+        "brand": "Apple",
+        "model": "iPhone 13",
+        "price": 999.99,
+        "storage": "256GB",
+        "color": "Midnight Green",
+        "availability": false
+      },
+      {
+        "id": 3,
+        "brand": "Google",
+        "model": "Pixel 6",
+        "price": 699.99,
+        "storage": "64GB",
+        "color": "Clearly White",
+        "availability": true
+      },
+      {
+        "id": 4,
+        "brand": "OnePlus",
+        "model": "9 Pro",
+        "price": 899.99,
+        "storage": "256GB",
+        "color": "Morning Mist",
+        "availability": true
+      },
+      {
+        "id": 5,
+        "brand": "Xiaomi",
+        "model": "Redmi Note 10",
+        "price": 249.99,
+        "storage": "128GB",
+        "color": "Aqua Green",
+        "availability": true
+      }
+    ]
+  }
+  
